@@ -1,0 +1,522 @@
+display_name,what
+Speech,Speech
+"Child speech, kid speaking",Speech
+Conversation,Speech
+"Narration, monologue",Speech
+Babbling,Speech
+Speech synthesizer,Speech
+Shout,Action
+Bellow,Action
+Whoop,Action
+Yell,Action
+Children shouting,Action
+Screaming,Action
+Whispering,Action
+Laughter,Action
+Baby laughter,Action
+Giggle,Action
+Snicker,Action
+Belly laugh,Action
+"Chuckle, chortle",Action
+"Crying, sobbing",Action
+"Baby cry, infant cry",Action
+Whimper,Action
+"Wail, moan",Action
+Sigh,Action
+Singing,Action
+Choir,Action
+Yodeling,Action
+Chant,Action
+Mantra,Action
+Child singing,Action
+Synthetic singing,Action
+Rapping,Action
+Humming,Action
+Groan,Action
+Grunt,Action
+Whistling,Action
+Breathing,Action
+Wheeze,Action
+Snoring,Action
+Gasp,Action
+Pant,Action
+Snort,Action
+Cough,Action
+Throat clearing,Action
+Sneeze,Action
+Sniff,Action
+Run,Action
+Shuffle,Action
+"Walk, footsteps",Action
+"Chewing, mastication",Action
+Biting,Action
+Gargling,Action
+Stomach rumble,Action
+"Burping, eructation",Action
+Hiccup,Action
+Fart,Action
+Hands,Action
+Finger snapping,Action
+Clapping,Action
+"Heart sounds, heartbeat",Action
+Heart murmur,Action
+Cheering,Action
+Applause,Action
+Chatter,Action
+Crowd,Action
+"Hubbub, speech noise, speech babble",Action
+Children playing,Action
+Animal,Animal
+"Domestic animals, pets",Animal
+Dog,Animal
+Bark,Animal
+Yip,Animal
+Howl,Animal
+Bow-wow,Animal
+Growling,Animal
+Whimper (dog),Animal
+Cat,Animal
+Purr,Animal
+Meow,Animal
+Hiss,Animal
+Caterwaul,Animal
+"Livestock, farm animals, working animals",Animal
+Horse,Animal
+Clip-clop,Animal
+"Neigh, whinny",Animal
+"Cattle, bovinae",Animal
+Moo,Animal
+Cowbell,Animal
+Pig,Animal
+Oink,Animal
+Goat,Animal
+Bleat,Animal
+Sheep,Animal
+Fowl,Animal
+"Chicken, rooster",Animal
+Cluck,Animal
+"Crowing, cock-a-doodle-doo",Animal
+Turkey,Animal
+Gobble,Animal
+Duck,Animal
+Quack,Animal
+Goose,Animal
+Honk,Animal
+Wild animals,Animal
+"Roaring cats (lions, tigers)",Animal
+Roar,Animal
+Bird,Animal
+"Bird vocalization, bird call, bird song",Animal
+"Chirp, tweet",Animal
+Squawk,Animal
+"Pigeon, dove",Animal
+Coo,Animal
+Crow,Animal
+Caw,Animal
+Owl,Animal
+Hoot,Animal
+"Bird flight, flapping wings",Animal
+"Canidae, dogs, wolves",Animal
+"Rodents, rats, mice",Animal
+Mouse,Animal
+Patter,Animal
+Insect,Animal
+Cricket,Animal
+Mosquito,Animal
+"Fly, housefly",Animal
+Buzz,Animal
+"Bee, wasp, etc.",Animal
+Frog,Animal
+Croak,Animal
+Snake,Animal
+Rattle,Animal
+Whale vocalization,Animal
+Music,Music
+Musical instrument,Music
+Plucked string instrument,Music
+Guitar,Music
+Electric guitar,Music
+Bass guitar,Music
+Acoustic guitar,Music
+"Steel guitar, slide guitar",Music
+Tapping (guitar technique),Music
+Strum,Music
+Banjo,Music
+Sitar,Music
+Mandolin,Music
+Zither,Music
+Ukulele,Music
+Keyboard (musical),Music
+Piano,Music
+Electric piano,Music
+Organ,Music
+Electronic organ,Music
+Hammond organ,Music
+Synthesizer,Music
+Sampler,Music
+Harpsichord,Music
+Percussion,Music
+Drum kit,Music
+Drum machine,Music
+Drum,Music
+Snare drum,Music
+Rimshot,Music
+Drum roll,Music
+Bass drum,Music
+Timpani,Music
+Tabla,Music
+Cymbal,Music
+Hi-hat,Music
+Wood block,Music
+Tambourine,Music
+Rattle (instrument),Music
+Maraca,Music
+Gong,Music
+Tubular bells,Music
+Mallet percussion,Music
+"Marimba, xylophone",Music
+Glockenspiel,Music
+Vibraphone,Music
+Steelpan,Music
+Orchestra,Music
+Brass instrument,Music
+French horn,Music
+Trumpet,Music
+Trombone,Music
+Bowed string instrument,Music
+String section,Music
+"Violin, fiddle",Music
+Pizzicato,Music
+Cello,Music
+Double bass,Music
+"Wind instrument, woodwind instrument",Music
+Flute,Music
+Saxophone,Music
+Clarinet,Music
+Harp,Music
+Bell,Music
+Church bell,Music
+Jingle bell,Music
+Bicycle bell,Music
+Tuning fork,Music
+Chime,Music
+Wind chime,Music
+Change ringing (campanology),Music
+Harmonica,Music
+Accordion,Music
+Bagpipes,Music
+Didgeridoo,Music
+Shofar,Music
+Theremin,Music
+Singing bowl,Music
+Scratching (performance technique),Music
+Pop music,Music
+Hip hop music,Music
+Beatboxing,Music
+Rock music,Music
+Heavy metal,Music
+Punk rock,Music
+Grunge,Music
+Progressive rock,Music
+Rock and roll,Music
+Psychedelic rock,Music
+Rhythm and blues,Music
+Soul music,Music
+Reggae,Music
+Country,Music
+Swing music,Music
+Bluegrass,Music
+Funk,Music
+Folk music,Music
+Middle Eastern music,Music
+Jazz,Music
+Disco,Music
+Classical music,Music
+Opera,Music
+Electronic music,Music
+House music,Music
+Techno,Music
+Dubstep,Music
+Drum and bass,Music
+Electronica,Music
+Electronic dance music,Music
+Ambient music,Music
+Trance music,Music
+Music of Latin America,Music
+Salsa music,Music
+Flamenco,Music
+Blues,Music
+Music for children,Music
+New-age music,Music
+Vocal music,Music
+A capella,Music
+Music of Africa,Music
+Afrobeat,Music
+Christian music,Music
+Gospel music,Music
+Music of Asia,Music
+Carnatic music,Music
+Music of Bollywood,Music
+Ska,Music
+Traditional music,Music
+Independent music,Music
+Song,Music
+Background music,Music
+Theme music,Music
+Jingle (music),Music
+Soundtrack music,Music
+Lullaby,Music
+Video game music,Music
+Christmas music,Music
+Dance music,Music
+Wedding music,Music
+Happy music,Music
+Sad music,Music
+Tender music,Music
+Exciting music,Music
+Angry music,Music
+Scary music,Music
+Wind,Nature
+Rustling leaves,Nature
+Wind noise (microphone),Nature
+Thunderstorm,Nature
+Thunder,Nature
+Water,Nature
+Rain,Nature
+Raindrop,Nature
+Rain on surface,Nature
+Stream,Nature
+Waterfall,Nature
+Ocean,Nature
+"Waves, surf",Nature
+Steam,Nature
+Gurgling,Nature
+Fire,Nature
+Crackle,Nature
+Vehicle,Object
+"Boat, Water vehicle",Object
+"Sailboat, sailing ship",Object
+"Rowboat, canoe, kayak",Object
+"Motorboat, speedboat",Object
+Ship,Object
+Motor vehicle (road),Object
+Car,Object
+"Vehicle horn, car horn, honking",Object
+Toot,Object
+Car alarm,Object
+"Power windows, electric windows",Object
+Skidding,Object
+Tire squeal,Object
+Car passing by,Object
+"Race car, auto racing",Object
+Truck,Object
+Air brake,Object
+"Air horn, truck horn",Object
+Reversing beeps,Object
+"Ice cream truck, ice cream van",Object
+Bus,Object
+Emergency vehicle,Object
+Police car (siren),Object
+Ambulance (siren),Object
+"Fire engine, fire truck (siren)",Object
+Motorcycle,Object
+"Traffic noise, roadway noise",Object
+Rail transport,Object
+Train,Object
+Train whistle,Object
+Train horn,Object
+"Railroad car, train wagon",Object
+Train wheels squealing,Object
+"Subway, metro, underground",Object
+Aircraft,Object
+Aircraft engine,Object
+Jet engine,Object
+"Propeller, airscrew",Object
+Helicopter,Object
+"Fixed-wing aircraft, airplane",Object
+Bicycle,Object
+Skateboard,Object
+Engine,Object
+Light engine (high frequency),Object
+"Dental drill, dentist's drill",Object
+Lawn mower,Object
+Chainsaw,Object
+Medium engine (mid frequency),Object
+Heavy engine (low frequency),Object
+Engine knocking,Object
+Engine starting,Object
+Idling,Object
+"Accelerating, revving, vroom",Object
+Door,Object
+Doorbell,Object
+Ding-dong,Object
+Sliding door,Object
+Slam,Object
+Knock,Object
+Tap,Object
+Squeak,Object
+Cupboard open or close,Object
+Drawer open or close,Object
+"Dishes, pots, and pans",Object
+"Cutlery, silverware",Object
+Chopping (food),Object
+Frying (food),Object
+Microwave oven,Object
+Blender,Object
+"Water tap, faucet",Object
+Sink (filling or washing),Object
+Bathtub (filling or washing),Object
+Hair dryer,Object
+Toilet flush,Object
+Toothbrush,Object
+Electric toothbrush,Object
+Vacuum cleaner,Object
+Zipper (clothing),Object
+Keys jangling,Object
+Coin (dropping),Object
+Scissors,Object
+"Electric shaver, electric razor",Object
+Shuffling cards,Object
+Typing,Object
+Typewriter,Object
+Computer keyboard,Object
+Writing,Object
+Alarm,Object
+Telephone,Object
+Telephone bell ringing,Object
+Ringtone,Object
+"Telephone dialing, DTMF",Object
+Dial tone,Object
+Busy signal,Object
+Alarm clock,Object
+Siren,Object
+Civil defense siren,Object
+Buzzer,Object
+"Smoke detector, smoke alarm",Object
+Fire alarm,Object
+Foghorn,Object
+Whistle,Object
+Steam whistle,Object
+Mechanisms,Object
+"Ratchet, pawl",Object
+Clock,Object
+Tick,Object
+Tick-tock,Object
+Gears,Object
+Pulleys,Object
+Sewing machine,Object
+Mechanical fan,Object
+Air conditioning,Object
+Cash register,Object
+Printer,Object
+Camera,Object
+Single-lens reflex camera,Object
+Tools,Object
+Hammer,Object
+Jackhammer,Object
+Sawing,Object
+Filing (rasp),Object
+Sanding,Object
+Power tool,Object
+Drill,Object
+Explosion,Object
+"Gunshot, gunfire",Object
+Machine gun,Object
+Fusillade,Object
+Artillery fire,Object
+Cap gun,Object
+Fireworks,Object
+Firecracker,Object
+"Burst, pop",Object
+Eruption,Object
+Boom,Object
+Wood,Object
+Chop,Object
+Splinter,Object
+Crack,Object
+Glass,Object
+"Chink, clink",Object
+Shatter,Object
+Liquid,Object
+"Splash, splatter",Object
+Slosh,Object
+Squish,Object
+Drip,Object
+Pour,Object
+"Trickle, dribble",Object
+Gush,Object
+Fill (with liquid),Object
+Spray,Object
+Pump (liquid),Object
+Stir,Object
+Boiling,Object
+Sonar,Object
+Arrow,Object
+"Whoosh, swoosh, swish",Object
+"Thump, thud",Object
+Thunk,Object
+Electronic tuner,Object
+Effects unit,Object
+Chorus effect,Object
+Basketball bounce,Object
+Bang,Object
+"Slap, smack",Object
+"Whack, thwack",Object
+"Smash, crash",Object
+Breaking,Object
+Bouncing,Object
+Whip,Object
+Flap,Object
+Scratch,Object
+Scrape,Object
+Rub,Object
+Roll,Object
+Crushing,Object
+"Crumpling, crinkling",Object
+Tearing,Object
+"Beep, bleep",Object
+Ping,Object
+Ding,Object
+Clang,Object
+Squeal,Object
+Creak,Object
+Rustle,Object
+Whir,Object
+Clatter,Object
+Sizzle,Object
+Clicking,Object
+Clickety-clack,Object
+Rumble,Object
+Plop,Object
+"Jingle, tinkle",Object
+Hum,Object
+Zing,Object
+Boing,Object
+Crunch,Object
+Silence,Other
+Sine wave,Other
+Harmonic,Other
+Chirp tone,Other
+Sound effect,Other
+Pulse,Other
+"Inside, small room",Other
+"Inside, large room or hall",Other
+"Inside, public space",Other
+"Outside, urban or manmade",Other
+"Outside, rural or natural",Other
+Reverberation,Other
+Echo,Other
+Noise,Other
+Environmental noise,Other
+Static,Other
+Mains hum,Other
+Distortion,Other
+Sidetone,Other
+Cacophony,Other
+White noise,Other
+Pink noise,Other
+Throbbing,Other
+Vibration,Other
+Television,Other
+Radio,Other
+Field recording,Other
