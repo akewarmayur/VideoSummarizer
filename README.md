@@ -20,6 +20,10 @@ python main.py --input_video "your_video" --window 4 --open_api_key "your_key"
 ### Input Video
 
 
+
+https://github.com/akewarmayur/VideoSummarizer/assets/31464781/566c5ff3-8d19-4a91-9795-d8e6e03a83ab
+
+
 ### Output
 ```commandline
 A man wearing brown pants is in a scene with loud music playing. There is also a sound of rail transport, vehicle, and gunfire. The man only has 12 bullets and suggests that they should count them down. He then expresses displeasure with the situation, exclaiming "Shit!", "No!", and "F**k!". It has been a bad day for him.
