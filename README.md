@@ -30,9 +30,7 @@ A man wearing brown pants is in a scene with loud music playing. There is also a
 ```
 
 #### Errors
-* If you get this error `could not find match for ^\w+\W` then, you should go in the cipher.py file in `pytube` and replace the line 30, which is:
-`var_regex = re.compile(r"^\w+\W")`
-With this line: `var_regex=re.compile(r"^\$*\w+\W")`
+If you get this error `could not find match for ^\w+\W` then, you should go in the cipher.py file in `pytube` and replace the line 30, which is: `var_regex = re.compile(r"^\w+\W")` with this line: `var_regex = re.compile(r"^\$*\w+\W")`
 
 
 ### Future Work:
