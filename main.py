@@ -12,9 +12,16 @@ if __name__ == '__main__':
     video_path = args.input_video
     window = args.window
     open_api_key = args.open_api_key
-    current_directory = os.getcwd()  # Get the current working directory
-    destination_file = os.path.join(current_directory, "tmp.mp4")
-    shutil.copy(video_path, destination_file)
     obj = sProcess.SummarizeProcess()
-    summaryDF = obj.start_process(video_path, open_api_key, window)
-    summaryDF.to_csv("videoSummary.csv")
+    link = False
+    video_extensions = ['.mp4', '.avi', '.mkv', '.mov']  # Add more extensions as needed
+    if not any(video_path.lower().endswith(ext) for ext in video_extensions):
+        link = True
+        summaryDF = obj.start_process(video_path, open_api_key, window, link)
+        summaryDF.to_csv("videoSummary.csv")
+    else:
+        current_directory = os.getcwd()  # Get the current working directory
+        destination_file = os.path.join(current_directory, "tmp.mp4")
+        shutil.copy(video_path, destination_file)
+        summaryDF = obj.start_process("tmp.mp4", open_api_key, window, link)
+        summaryDF.to_csv("videoSummary.csv")
